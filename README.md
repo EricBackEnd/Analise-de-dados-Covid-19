@@ -172,12 +172,12 @@ python-dotenv    # Variáveis de ambiente
 
 Criar arquivo `.ENV` na raiz do projeto:
 
-```env
-db_name=covidanalise
-db_user=postgres
-db_password=postgres
-db_host=localhost
-db_port=5432
+```env example
+db_name=
+db_user=
+db_password=
+db_host=
+db_port=
 ```
 
 ### Criar Banco de Dados
