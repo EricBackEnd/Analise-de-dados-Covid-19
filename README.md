@@ -183,7 +183,7 @@ db_port=
 ### Criar Banco de Dados
 
 ```sql
-CREATE DATABASE covidanalise;
+CREATE DATABASE seubancodedadoscovid;
 ```
 
 ---
